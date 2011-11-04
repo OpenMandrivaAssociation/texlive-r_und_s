@@ -53,6 +53,7 @@ English, French and Dutch.
 %{_texmfdistdir}/tex/latex/r_und_s/r_und_s.sty
 %{_texmfdistdir}/tex/latex/r_und_s/r_und_s.tex
 %doc %{_texmfdistdir}/doc/latex/r_und_s/README
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -63,3 +64,5 @@ English, French and Dutch.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
