@@ -6,7 +6,7 @@
 # catalog-version 1.3i
 Name:		texlive-r_und_s
 Version:	1.3i
-Release:	4
+Release:	5
 Summary:	Chemical hazard codes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/r_und_s
