@@ -1,6 +1,6 @@
 Name:		texlive-r_und_s
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Chemical hazard codes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/r_und_s
