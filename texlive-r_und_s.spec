@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Chemical hazard codes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/r_und_s
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/r_und_s
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/r_und_s.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/r_und_s.doc.r%{version}.tar.xz
